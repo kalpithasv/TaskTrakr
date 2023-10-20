@@ -1,0 +1,9 @@
+Total number of registered users		:	1
+Total number of tasks recorded			:	{task_total}
+
+admin
+Assigned tasks					:	3
+Percentage of all tasks assigned to user	:	100.0%
+Percentage of user tasks completed		:	0.0%
+Percentage of user tasks to be completed	:	100.0%
+Percentage of overdue user tasks		:	66.67%
